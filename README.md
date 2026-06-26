@@ -14,7 +14,7 @@ Proyek ini dikembangkan sebagai **Laporan Final Project Pemrograman SQL II** pad
 * **Dosen Pengampu:** M Reza Redo Islami, S.kom., M.T.I.
 * **Institusi:** Politeknik Negeri Lampung
 * **Tautan Repository:** [GitHub Repository](https://github.com/boykaisar3005-debug/lifequest-polinela-sql2.git)
-* **Tautan Video Demo:** [YouTube Video Demo](https://youtu.be/pCh4sWT2Uqo)
+* **Tautan Video Demo:** [YouTube Video Demo](https://youtu.be/fUk8VKg6-WI)
 ---
 ## ✨ Fitur Utama
 1. **Gamifikasi Produktivitas (Leveling & XP)**: 
