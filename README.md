@@ -3,6 +3,7 @@
 [![PHP Version](https://img.shields.io/badge/PHP-8.2-blue.svg)]()
 [![Database](https://img.shields.io/badge/Database-MySQL-blue.svg)]()
 [![Theme](https://img.shields.io/badge/Theme-Cozy%20Glassmorphism-purple.svg)]()
+
 **LifeQuest** adalah aplikasi manajemen tugas harian (*to-do list*) interaktif yang memadukan produktivitas dengan konsep **gamifikasi**. Pengguna dapat mengelola tugas kuliah/kerjaan (*Tasks*) dan misi produktivitas harian (*Quests*) untuk mendapatkan poin Pengalaman (*Experience Points* - XP) guna meningkatkan Level karakter pengguna.
 Proyek ini dikembangkan sebagai **Laporan Final Project Pemrograman SQL II** pada **Program Studi Manajemen Informatika, Jurusan Teknologi Informasi, Politeknik Negeri Lampung**.
 ---
